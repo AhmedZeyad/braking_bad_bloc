@@ -1,4 +1,4 @@
-import 'package:braking_bad_bloc/app_router.dart';
+import 'package:rick_and_morty/app_router.dart';
 import 'package:flutter/material.dart';
 
 void main() {
